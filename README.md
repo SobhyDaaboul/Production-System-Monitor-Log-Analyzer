@@ -81,3 +81,19 @@ This project showcases the skills needed for Technical Analyst and Production Su
 - Performance analysis
 - System health scoring
 - Top errors and slow components
+
+## 🎓 What I Learned
+
+Built a Linux-based monitoring system using Bash and Python
+
+Collected and analyzed system metrics (CPU, memory, disk)
+
+Parsed and analyzed log files in real time using regex
+
+Stored and analyzed data using PostgreSQL and SQL
+
+Detected issues early through monitoring, alerting, and log analysis
+
+Automated data collection, reporting, and troubleshooting workflows
+
+Applied production best practices for performance, reliability, and efficiency
