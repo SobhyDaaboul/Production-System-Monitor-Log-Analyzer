@@ -1,0 +1,27 @@
+# Database connection
+database:
+  host: localhost
+  port: 5432
+  name: monitoring_db
+  user: monitor_user
+  password: monitor_pass
+
+# Log settings
+logging:
+  log_directory: ./logs
+  log_file_prefix: app
+  retention_days: 7
+
+# Monitoring thresholds
+thresholds:
+  cpu_warning: 70      # Warn if CPU > 70%
+  cpu_critical: 90     # Critical if CPU > 90%
+  memory_warning: 75
+  memory_critical: 90
+  disk_warning: 80
+  disk_critical: 95
+  
+# Alert settings
+alerts:
+  email_enabled: false
+  email_to: admin@example.com

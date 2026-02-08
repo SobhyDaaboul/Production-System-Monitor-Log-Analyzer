@@ -1,0 +1,244 @@
+2026-02-07 14:13:48 INFO  [Queue     ] Queue size: 14 messages pending
+2026-02-07 14:13:21 INFO  [Queue     ] Queue size: 21 messages pending
+2026-02-07 14:13:12 WARN  [API       ] Slow response: /api/products took 101ms
+2026-02-07 14:14:04 INFO  [Database  ] Connection pool: 77 active connections
+2026-02-07 14:13:40 INFO  [Database  ] Query executed successfully in 1313ms
+2026-02-07 14:13:12 WARN  [Cache     ] Cache miss rate high: 63%
+2026-02-07 14:14:08 INFO  [Auth      ] Token generated for user_id=3474
+2026-02-07 14:13:52 INFO  [Payment   ] Payment processed: amount=$243.08 user_id=3355
+2026-02-07 14:14:01 INFO  [Cache     ] Cache hit: key=cache_key_30
+2026-02-07 14:14:00 INFO  [Auth      ] Password reset email sent to user_id=6730
+2026-02-07 14:14:04 INFO  [Payment   ] Payment processed: amount=$369.99 user_id=9451
+2026-02-07 14:13:57 INFO  [Database  ] Connection pool: 49 active connections
+2026-02-07 14:14:10 WARN  [Payment   ] Payment gateway latency high: 1609ms
+2026-02-07 14:13:55 ERROR [API       ] 500 Internal Server Error: /api/users
+2026-02-07 14:14:00 INFO  [Auth      ] Password reset email sent to user_id=5051
+2026-02-07 14:13:27 INFO  [Auth      ] Token generated for user_id=2921
+2026-02-07 14:13:43 INFO  [Queue     ] Worker started: worker_id=2
+2026-02-07 14:13:50 ERROR [Queue     ] Worker crashed: worker_id=4
+2026-02-07 14:13:53 INFO  [Auth      ] User login successful: user_id=4037
+2026-02-07 14:14:20 WARN  [Database  ] Table lock held for 4682ms
+2026-02-07 14:14:21 WARN  [Auth      ] Multiple login attempts from IP 192.168.154.127
+2026-02-07 14:14:13 INFO  [Cache     ] Cache hit: key=cache_key_46
+2026-02-07 14:13:38 WARN  [Queue     ] Dead letter queue has 29 messages
+2026-02-07 14:13:34 INFO  [API       ] Request processed: user_id=5476
+2026-02-07 14:14:15 ERROR [Queue     ] Worker crashed: worker_id=8
+2026-02-07 14:14:07 INFO  [API       ] GET /api/users/304 completed in 4797ms
+2026-02-07 14:14:18 WARN  [Cache     ] Cache eviction: Memory limit reached
+2026-02-07 14:13:44 INFO  [API       ] GET /api/users/128 completed in 2091ms
+2026-02-07 14:13:42 INFO  [Queue     ] Worker started: worker_id=1
+2026-02-07 14:14:34 WARN  [Payment   ] Retry attempt 2/3 for transaction_id=TXN956362
+2026-02-07 14:13:53 INFO  [Database  ] Connection pool: 36 active connections
+2026-02-07 14:13:52 WARN  [Auth      ] Multiple login attempts from IP 192.168.246.33
+2026-02-07 14:13:57 INFO  [Queue     ] Queue size: 39 messages pending
+2026-02-07 14:13:44 INFO  [API       ] GET /api/users/774 completed in 3215ms
+2026-02-07 14:14:22 INFO  [API       ] Request processed: user_id=5020
+2026-02-07 14:14:07 INFO  [Cache     ] Cache hit: key=cache_key_73
+2026-02-07 14:14:19 INFO  [Queue     ] Queue size: 47 messages pending
+2026-02-07 14:14:01 INFO  [Auth      ] Password reset email sent to user_id=6889
+2026-02-07 14:14:29 WARN  [Queue     ] Queue backlog growing: 50 messages
+2026-02-07 14:14:45 INFO  [Database  ] Query executed successfully in 4438ms
+2026-02-07 14:13:56 INFO  [Queue     ] Worker started: worker_id=10
+2026-02-07 14:13:59 ERROR [API       ] 404 Not Found: /api/users
+2026-02-07 14:14:37 INFO  [Auth      ] Password reset email sent to user_id=6657
+2026-02-07 14:14:43 INFO  [Auth      ] Token generated for user_id=8211
+2026-02-07 14:14:13 ERROR [Cache     ] Cache corruption detected
+2026-02-07 14:14:23 INFO  [Database  ] Index scan completed: 5998 rows
+2026-02-07 14:14:41 WARN  [Queue     ] Queue backlog growing: 17 messages
+2026-02-07 14:14:22 WARN  [Queue     ] Queue backlog growing: 12 messages
+2026-02-07 14:14:33 INFO  [Payment   ] Refund issued: transaction_id=TXN923625
+2026-02-07 14:14:51 INFO  [Cache     ] Cache size: 17MB / 512MB
+2026-02-07 14:14:27 WARN  [API       ] Large payload detected: 29MB
+2026-02-07 14:14:24 INFO  [API       ] Request processed: user_id=2949
+2026-02-07 14:14:45 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:14:23 WARN  [Payment   ] Retry attempt 1/3 for transaction_id=TXN769320
+2026-02-07 14:14:46 INFO  [Payment   ] Payment processed: amount=$134.60 user_id=9902
+2026-02-07 14:14:47 INFO  [Auth      ] Token generated for user_id=9977
+2026-02-07 14:14:51 INFO  [Cache     ] Cache hit: key=cache_key_35
+2026-02-07 14:14:46 INFO  [Cache     ] Cache miss: key=cache_key_97
+2026-02-07 14:14:51 INFO  [API       ] GET /api/users/474 completed in 3571ms
+2026-02-07 14:14:58 ERROR [Database  ] Connection failed: Unable to reach database server
+2026-02-07 14:14:35 INFO  [Queue     ] Worker started: worker_id=9
+2026-02-07 14:14:32 INFO  [Auth      ] Password reset email sent to user_id=9202
+2026-02-07 14:14:31 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:14:54 INFO  [Database  ] Query executed successfully in 2609ms
+2026-02-07 14:14:54 INFO  [Database  ] Query executed successfully in 1102ms
+2026-02-07 14:14:41 INFO  [Cache     ] Cache hit: key=cache_key_59
+2026-02-07 14:14:33 INFO  [Auth      ] Password reset email sent to user_id=6798
+2026-02-07 14:14:50 INFO  [Auth      ] Password reset email sent to user_id=4672
+2026-02-07 14:14:27 INFO  [Cache     ] Cache hit: key=cache_key_87
+2026-02-07 14:50:32 INFO  [Payment   ] Payment processed: amount=$212.28 user_id=4580
+2026-02-07 14:50:30 INFO  [Cache     ] Cache hit: key=cache_key_11
+2026-02-07 14:50:37 INFO  [Queue     ] Queue size: 37 messages pending
+2026-02-07 14:49:53 INFO  [API       ] Request processed: user_id=3057
+2026-02-07 14:50:25 INFO  [API       ] Request processed: user_id=3969
+2026-02-07 14:50:22 INFO  [Database  ] Query executed successfully in 650ms
+2026-02-07 14:50:18 INFO  [API       ] GET /api/users/598 completed in 4084ms
+2026-02-07 14:50:44 INFO  [Database  ] Index scan completed: 5447 rows
+2026-02-07 14:49:58 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:50:01 INFO  [Database  ] Index scan completed: 7811 rows
+2026-02-07 14:50:47 WARN  [API       ] Slow response: /api/products took 2644ms
+2026-02-07 14:50:35 INFO  [Queue     ] Message processed: queue=notifications time=2024ms
+2026-02-07 14:50:53 INFO  [API       ] POST /api/orders completed in 1359ms
+2026-02-07 14:50:24 WARN  [Database  ] Slow query detected: 4425ms for SELECT statement
+2026-02-07 14:50:59 WARN  [Auth      ] Token expired for user_id=4890
+2026-02-07 14:51:02 INFO  [Queue     ] Worker started: worker_id=7
+2026-02-07 14:51:06 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:50:38 INFO  [API       ] GET /api/users/915 completed in 4216ms
+2026-02-07 14:50:18 WARN  [Cache     ] Cache eviction: Memory limit reached
+2026-02-07 14:50:22 WARN  [Payment   ] Retry attempt 2/3 for transaction_id=TXN962965
+2026-02-07 14:51:04 INFO  [Queue     ] Worker started: worker_id=2
+2026-02-07 14:50:44 WARN  [Database  ] Connection pool reaching limit: 63/100 connections
+2026-02-07 14:50:18 WARN  [Cache     ] Cache miss rate high: 62%
+2026-02-07 14:50:20 INFO  [Payment   ] Refund issued: transaction_id=TXN281725
+2026-02-07 14:50:33 ERROR [Queue     ] Worker crashed: worker_id=7
+2026-02-07 14:50:49 INFO  [API       ] Request processed: user_id=7356
+2026-02-07 14:51:05 ERROR [Cache     ] Cache corruption detected
+2026-02-07 14:50:54 INFO  [Queue     ] Queue size: 45 messages pending
+2026-02-07 14:50:51 INFO  [Database  ] Index scan completed: 6339 rows
+2026-02-07 14:50:53 INFO  [API       ] Request processed: user_id=8330
+2026-02-07 14:50:25 INFO  [Auth      ] User login successful: user_id=3211
+2026-02-07 14:50:33 INFO  [Payment   ] Refund issued: transaction_id=TXN882338
+2026-02-07 14:51:21 INFO  [Queue     ] Queue size: 22 messages pending
+2026-02-07 14:50:54 WARN  [Auth      ] Failed login attempt for user_id=5058
+2026-02-07 14:51:03 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:50:40 INFO  [Cache     ] Cache hit: key=cache_key_3
+2026-02-07 14:50:54 INFO  [Auth      ] Token generated for user_id=2767
+2026-02-07 14:50:47 ERROR [Cache     ] Cache server unreachable
+2026-02-07 14:51:11 ERROR [API       ] 404 Not Found: /api/users
+2026-02-07 14:50:57 INFO  [Database  ] Query executed successfully in 671ms
+2026-02-07 14:51:17 INFO  [Cache     ] Cache hit: key=cache_key_26
+2026-02-07 14:51:11 INFO  [API       ] GET /api/users/770 completed in 4209ms
+2026-02-07 14:51:15 INFO  [Auth      ] Token generated for user_id=2951
+2026-02-07 14:50:41 INFO  [API       ] Request processed: user_id=6649
+2026-02-07 14:50:58 INFO  [Queue     ] Queue size: 8 messages pending
+2026-02-07 14:50:59 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:50:47 INFO  [Cache     ] Cache miss: key=cache_key_73
+2026-02-07 14:51:09 WARN  [Queue     ] Dead letter queue has 15 messages
+2026-02-07 14:51:35 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:50:41 INFO  [API       ] POST /api/orders completed in 3114ms
+2026-02-07 14:51:25 ERROR [Payment   ] Transaction failed: Timeout
+2026-02-07 14:51:07 INFO  [Auth      ] User login successful: user_id=9336
+2026-02-07 14:51:30 INFO  [Database  ] Query executed successfully in 2092ms
+2026-02-07 14:51:37 WARN  [Database  ] Table lock held for 3920ms
+2026-02-07 14:51:17 INFO  [Auth      ] Password reset email sent to user_id=3428
+2026-02-07 14:51:26 INFO  [Auth      ] Password reset email sent to user_id=4597
+2026-02-07 14:50:52 INFO  [Auth      ] Token generated for user_id=8404
+2026-02-07 14:50:54 INFO  [Queue     ] Message processed: queue=emails time=3756ms
+2026-02-07 14:51:17 INFO  [Queue     ] Worker started: worker_id=4
+2026-02-07 14:51:18 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:51:18 INFO  [Cache     ] Cache hit: key=cache_key_52
+2026-02-07 14:51:05 INFO  [Queue     ] Message processed: queue=emails time=4281ms
+2026-02-07 14:51:32 INFO  [Payment   ] Payment processed: amount=$139.50 user_id=6635
+2026-02-07 14:51:20 INFO  [Database  ] Query executed successfully in 2632ms
+2026-02-07 14:51:08 INFO  [Cache     ] Cache size: 49MB / 512MB
+2026-02-07 14:51:44 WARN  [Queue     ] Dead letter queue has 21 messages
+2026-02-07 14:50:56 INFO  [Queue     ] Queue size: 17 messages pending
+2026-02-07 14:51:49 WARN  [Database  ] Table lock held for 4171ms
+2026-02-07 14:51:18 INFO  [Cache     ] Cache miss: key=cache_key_74
+2026-02-07 14:51:33 INFO  [Auth      ] User login successful: user_id=9677
+2026-02-07 14:51:38 INFO  [API       ] POST /api/orders completed in 3869ms
+2026-02-07 14:51:08 INFO  [Database  ] Query executed successfully in 3081ms
+2026-02-07 14:51:30 INFO  [Auth      ] Token generated for user_id=6578
+2026-02-07 14:51:07 INFO  [Cache     ] Cache size: 33MB / 512MB
+2026-02-07 14:52:01 INFO  [Cache     ] Cache hit: key=cache_key_8
+2026-02-07 14:51:56 INFO  [Cache     ] Cache size: 48MB / 512MB
+2026-02-07 14:51:34 INFO  [API       ] POST /api/orders completed in 1276ms
+2026-02-07 14:51:37 INFO  [Cache     ] Cache size: 10MB / 512MB
+2026-02-07 14:51:19 WARN  [Cache     ] Cache miss rate high: 51%
+2026-02-07 14:51:41 INFO  [Cache     ] Cache miss: key=cache_key_91
+2026-02-07 14:51:54 INFO  [Payment   ] Refund issued: transaction_id=TXN171358
+2026-02-07 14:51:41 INFO  [API       ] Request processed: user_id=8758
+2026-02-07 14:51:37 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:52:00 INFO  [Database  ] Index scan completed: 2359 rows
+2026-02-07 14:51:40 INFO  [Payment   ] Payment gateway connected
+2026-02-07 14:52:10 ERROR [Payment   ] Transaction failed: Timeout
+2026-02-07 14:52:05 INFO  [Cache     ] Cache hit: key=cache_key_91
+2026-02-07 14:52:16 INFO  [Auth      ] Password reset email sent to user_id=5415
+2026-02-07 14:51:42 WARN  [Auth      ] Multiple login attempts from IP 192.168.128.2
+2026-02-07 14:51:33 INFO  [Cache     ] Cache hit: key=cache_key_39
+2026-02-07 14:52:09 INFO  [Database  ] Query executed successfully in 1294ms
+2026-02-07 14:52:10 INFO  [Cache     ] Cache miss: key=cache_key_39
+2026-02-07 14:51:52 INFO  [Queue     ] Message processed: queue=emails time=822ms
+2026-02-07 14:51:34 WARN  [API       ] Large payload detected: 15MB
+2026-02-07 14:52:11 ERROR [Payment   ] Payment gateway timeout
+2026-02-07 14:52:05 INFO  [Queue     ] Worker started: worker_id=7
+2026-02-07 14:51:39 INFO  [Database  ] Query executed successfully in 3054ms
+2026-02-07 14:52:26 INFO  [Cache     ] Cache miss: key=cache_key_86
+2026-02-07 14:52:10 WARN  [Payment   ] Payment declined: insufficient funds user_id=6162
+2026-02-07 14:52:09 INFO  [API       ] GET /api/users/311 completed in 466ms
+2026-02-07 14:52:29 INFO  [Cache     ] Cache miss: key=cache_key_96
+2026-02-07 14:52:17 INFO  [API       ] GET /api/users/902 completed in 291ms
+2026-02-07 14:52:20 WARN  [Queue     ] Dead letter queue has 21 messages
+2026-02-07 14:51:42 WARN  [Cache     ] Cache miss rate high: 77%
+2026-02-07 14:52:07 INFO  [Queue     ] Queue size: 24 messages pending
+2026-02-07 14:52:17 WARN  [Payment   ] Retry attempt 2/3 for transaction_id=TXN564881
+2026-02-07 14:51:46 INFO  [Queue     ] Worker started: worker_id=7
+2026-02-07 14:52:24 WARN  [Database  ] Table lock held for 3964ms
+2026-02-07 14:52:11 WARN  [Queue     ] Dead letter queue has 7 messages
+2026-02-07 14:51:48 INFO  [Queue     ] Worker started: worker_id=7
+2026-02-07 14:52:18 WARN  [Database  ] Table lock held for 4087ms
+2026-02-07 14:51:54 INFO  [Database  ] Index scan completed: 9784 rows
+2026-02-07 14:51:44 INFO  [API       ] POST /api/orders completed in 3885ms
+2026-02-07 15:00:11 ERROR [API       ] Request validation failed: Timeout
+2026-02-07 15:00:21 INFO  [Database  ] Query executed successfully in 3717ms
+2026-02-07 15:00:01 INFO  [Payment   ] Refund issued: transaction_id=TXN416419
+2026-02-07 15:00:35 INFO  [Cache     ] Cache size: 37MB / 512MB
+2026-02-07 15:00:21 INFO  [Cache     ] Cache size: 22MB / 512MB
+2026-02-07 14:59:56 INFO  [Auth      ] Password reset email sent to user_id=2457
+2026-02-07 15:00:45 ERROR [Cache     ] Cache corruption detected
+2026-02-07 15:00:35 INFO  [Auth      ] Token generated for user_id=8809
+2026-02-07 15:00:41 INFO  [Payment   ] Payment gateway connected
+2026-02-07 15:00:25 INFO  [Payment   ] Payment processed: amount=$157.92 user_id=1695
+2026-02-07 15:00:15 INFO  [API       ] POST /api/orders completed in 4485ms
+2026-02-07 15:00:44 INFO  [API       ] Request processed: user_id=7032
+2026-02-07 15:00:23 INFO  [API       ] GET /api/users/955 completed in 4742ms
+2026-02-07 15:00:30 WARN  [Cache     ] Cache miss rate high: 75%
+2026-02-07 15:00:19 INFO  [Queue     ] Queue size: 8 messages pending
+2026-02-07 15:00:21 INFO  [Auth      ] User login successful: user_id=4633
+2026-02-07 15:00:11 INFO  [API       ] Request processed: user_id=1492
+2026-02-07 15:00:42 INFO  [Auth      ] Password reset email sent to user_id=8194
+2026-02-07 15:00:43 INFO  [Payment   ] Payment processed: amount=$44.73 user_id=8266
+2026-02-07 15:01:05 ERROR [Auth      ] Session hijacking attempt detected
+2026-02-07 15:01:00 INFO  [Auth      ] User login successful: user_id=2219
+2026-02-07 15:01:07 INFO  [API       ] POST /api/orders completed in 3841ms
+2026-02-07 15:00:10 WARN  [Queue     ] Message processing slow: 158ms
+2026-02-07 15:00:30 INFO  [Auth      ] Token generated for user_id=4256
+2026-02-07 15:00:48 INFO  [Cache     ] Cache miss: key=cache_key_44
+2026-02-07 15:00:15 INFO  [Cache     ] Cache hit: key=cache_key_7
+2026-02-07 15:00:42 INFO  [Database  ] Index scan completed: 9062 rows
+2026-02-07 15:00:25 INFO  [Cache     ] Cache size: 43MB / 512MB
+2026-02-07 15:01:10 INFO  [Cache     ] Cache size: 31MB / 512MB
+2026-02-07 15:01:00 INFO  [Auth      ] User login successful: user_id=2993
+2026-02-07 15:00:33 ERROR [Queue     ] Message processing failed: Invalid input
+2026-02-07 15:00:24 INFO  [API       ] GET /api/users/145 completed in 4940ms
+2026-02-07 15:01:09 WARN  [Auth      ] Token expired for user_id=4555
+2026-02-07 15:00:59 INFO  [Database  ] Index scan completed: 4014 rows
+2026-02-07 15:00:34 INFO  [Database  ] Index scan completed: 786 rows
+2026-02-07 15:00:31 INFO  [API       ] POST /api/orders completed in 1988ms
+2026-02-07 15:01:15 ERROR [Payment   ] Transaction failed: Connection refused
+2026-02-07 15:00:38 INFO  [Queue     ] Worker started: worker_id=2
+2026-02-07 15:00:43 INFO  [API       ] GET /api/users/882 completed in 2030ms
+2026-02-07 15:00:53 INFO  [Database  ] Query executed successfully in 3036ms
+2026-02-07 15:00:54 INFO  [Payment   ] Refund issued: transaction_id=TXN283540
+2026-02-07 15:00:46 INFO  [Queue     ] Message processed: queue=emails time=1795ms
+2026-02-07 15:00:36 INFO  [Cache     ] Cache size: 25MB / 512MB
+2026-02-07 15:01:05 INFO  [Auth      ] Token generated for user_id=3229
+2026-02-07 15:01:00 INFO  [Auth      ] Password reset email sent to user_id=7898
+2026-02-07 15:01:07 ERROR [Payment   ] Transaction failed: Invalid input
+2026-02-07 15:00:43 INFO  [Payment   ] Refund issued: transaction_id=TXN183161
+2026-02-07 15:00:52 ERROR [Database  ] Deadlock detected on table users
+2026-02-07 15:01:18 INFO  [API       ] Request processed: user_id=4278
+2026-02-07 15:00:42 INFO  [Payment   ] Payment processed: amount=$115.18 user_id=5985
+2026-02-07 15:01:16 INFO  [Auth      ] Token generated for user_id=8206
+2026-02-07 15:01:28 ERROR [Database  ] Deadlock detected on table users
+2026-02-07 15:01:39 INFO  [API       ] GET /api/users/3 completed in 4410ms
+2026-02-07 15:01:39 INFO  [Payment   ] Payment gateway connected
+2026-02-07 15:01:22 WARN  [Auth      ] Multiple login attempts from IP 192.168.47.88
+2026-02-07 15:00:44 INFO  [Payment   ] Payment processed: amount=$305.14 user_id=2139
+2026-02-07 15:01:45 INFO  [Payment   ] Payment gateway connected
+2026-02-07 15:01:34 WARN  [Auth      ] Token expired for user_id=2236
+2026-02-07 15:01:12 ERROR [Database  ] Deadlock detected on table users
+2026-02-07 15:01:02 INFO  [Payment   ] Payment processed: amount=$364.38 user_id=6006
+2026-02-07 15:01:07 WARN  [API       ] Rate limit approaching: 59 requests in last minute
+2026-02-07 15:01:18 INFO  [Queue     ] Queue size: 39 messages pending
